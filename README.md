@@ -2,10 +2,12 @@
 # introduction:
 <p>TThis project is an AI-powered chatbot built using Streamlit and other tools for a simple and interactive user experience. It enables real-time conversation with accurate, context-aware responses, leveraging natural language processing (NLP) techniques.</p>
 
-#problem statement:
+<h1>problem statement</h1>:
 <p> Build a conversational chatbot that can intarct with users, understand their queries ,and provide approprite responeses, the chatbot should be able to chatbot should be able to understand natural language input ,process it , and deliver coherent replies using NLP techniques</p>
 
 #objective
+
+
 -Enhance Communication: Enable users to engage in natural and meaningful conversations with a virtual assistant.
 -Provide Assistance: Answer user queries across predefined intents, such as greetings, help, budgeting, and more.
 -Educate and Inform: Share relevant and helpful information on topics like financial advice, credit scores, and general inquiries.
