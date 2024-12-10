@@ -8,21 +8,21 @@
 <h1>objective</h1>
 
 
--Enhance Communication: Enable users to engage in natural and meaningful conversations with a virtual assistant.
--Provide Assistance: Answer user queries across predefined intents, such as greetings, help, budgeting, and more.
--Educate and Inform: Share relevant and helpful information on topics like financial advice, credit scores, and general inquiries.
--User-Friendly Interface: Offer a clean, easy-to-use interface powered by Streamlit, ensuring accessibility for all users.
--Scalability and Flexibility: Serve as a foundation for further development, allowing new intents, advanced functionalities, and integrations.
+<p>-Enhance Communication: Enable users to engage in natural and meaningful conversations with a virtual assistant.</p>
+<p>-Provide Assistance: Answer user queries across predefined intents, such as greetings, help, budgeting, and more.</p>
+<p>-Educate and Inform: Share relevant and helpful information on topics like financial advice, credit scores, and general inquiries.</p>
+<p>-User-Friendly Interface: Offer a clean, easy-to-use interface powered by Streamlit, ensuring accessibility for all users.</p>
+<p>-Scalability and Flexibility: Serve as a foundation for further development, allowing new intents, advanced functionalities, and integrations.</p>
 
 <h1>proposeed solution:</h1>
 
  <h2>-step</h2>
-1.Data collection and preprocessing
-2.future engineering
-3.Model selection
-4.Model training 
-5.Evaluation
-6.Deployment
+<p>1.Data collection and preprocessing</p>
+<p>12.future engineering</p>
+<p>3.Model selection</p>
+<p>4.Model training </p>
+<p>5.Evaluation</p>
+<p>6.Deployment</p>
 
 <h1>feature</h1>
 
@@ -55,19 +55,19 @@
 <h2>uture scope </h2>
 
 
-1.Emotion Recognition
-2.Self-Learning Chatbot
-3.task Automation
+<p>1.Emotion Recognition</p>
+<p>2.Self-Learning Chatbot</p>
+<p>3.task Automation</p>
 
 <h2>repositry:-</h2>
 
 
-1.Chatbot.ipynb
-2.Readme.MD
-3.app.py
-4.chat_log csv
-5.hello.txt
-6.intents.json
+<p>1.Chatbot.ipynb</p>
+<p>2.Readme.MD</p>
+<p>3.app.py</p>
+<p>4.chat_log csv</p>
+<p>5.hello.txt</p>
+<p>6.intents.json</p>
 
 <h2>chatbot deployment link:<h2>
  
