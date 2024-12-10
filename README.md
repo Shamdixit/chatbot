@@ -27,10 +27,10 @@
 <h1>feature</h1>
 
 
--Interactive Web Interface: Streamlit-powered UI for seamless interaction.
--NLP Engine: Utilizes advanced language models for high-quality responses.
--Real-Time Conversations: Provides instant, meaningful feedback during conversations.
--Scalability: Built with Python, allowing for future extensions and modifications.
+<p>-Interactive Web Interface: Streamlit-powered UI for seamless interaction.</p>
+ <p>-NLP Engine: Utilizes advanced language models for high-quality responses.</p>
+<p>-Real-Time Conversations: Provides instant, meaningful feedback during conversations.</p>
+<p>-Scalability: Built with Python, allowing for future extensions and modifications.</p>
 
 
 <h2>software Requirements</h2>
@@ -45,14 +45,14 @@
 
 
 
--Automating customer service , addressing frequently asked question (FAQs) , troubleshooting , and gauiding users though processes.
--virtual assistants like siri, Alexa ,and google Assistant help users by performing task like seting reminders sending messseges or searching for onformation
--Assisting patients in booking appointment ,providing symptom checks ,and offering mental health support.
--Assisting students with personallized learning question ,aanswering question about couse mantaries ,and providing quiz assessments.
--Assisting uses with booking flights ,hotels,answering travel-related queries ,and providing itinerary suggestions.
--Helping usersnwith account inqurires ,transactions, loan information ,and fraud detection
+<p>-Automating customer service , addressing frequently asked question (FAQs) , troubleshooting , and gauiding users though processes.</p>
+<p>-virtual assistants like siri, Alexa ,and google Assistant help users by performing task like seting reminders sending messseges or searching for information</p>
+<p>-Assisting patients in booking appointment ,providing symptom checks ,and offering mental health support.</p>
+<p>-Assisting students with personallized learning question ,aanswering question about couse mantaries ,and providing quiz assessments.</p>
+<p>-Assisting uses with booking flights ,hotels,answering travel-related queries ,and providing itinerary suggestions.</p>
+<p>-Helping usersnwith account inqurires ,transactions, loan information ,and fraud detection</p>
 
-<h2>uture scope </h2>
+<h2>future scope </h2>
 
 
 <p>1.Emotion Recognition</p>
@@ -80,9 +80,9 @@ The #Chatbot Project#successfully demonstrates the use of AI and NLP technologie
 The project highlights scalability and extensibility, allowing developers to expand its capabilities and improve its accuracy. Its implementation serves as an excellent starting point for learning about AI-driven chatbots and their practical uses.
 
 Future enhancements could include:
-- Expanding intent categories for broader functionality.
-- Incorporating external APIs for dynamic responses (e.g., weather or news updates).
-- Adding multilingual support for a global user base.
+<p>- Expanding intent categories for broader functionality.</p>
+<p>- Incorporating external APIs for dynamic responses (e.g., weather or news updates).</p>
+<p>- Adding multilingual support for a global user base.</p>
 
 This project is a testament to how AI can simplify interactions and make technology more accessible to users.
 
