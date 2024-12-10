@@ -5,7 +5,6 @@
 * project link - https://shamdixit.streamlit.app/
 <h1>problem statement :</h1>
 <p> Build a conversational chatbot that can intarct with users, understand their queries ,and provide approprite responeses, the chatbot should be able to chatbot should be able to understand natural language input ,process it , and deliver coherent replies using NLP techniques</p>
-![storageacc]Screenshot 2024-12-10 at 5.18.08 PM.png
 
 <h1>objective</h1>
 
