@@ -14,6 +14,7 @@
 <p>-Educate and Inform: Share relevant and helpful information on topics like financial advice, credit scores, and general inquiries.</p>
 <p>-User-Friendly Interface: Offer a clean, easy-to-use interface powered by Streamlit, ensuring accessibility for all users.</p>
 <p>-Scalability and Flexibility: Serve as a foundation for further development, allowing new intents, advanced functionalities, and integrations.</p>
+![st2](https://github.com/Shamdixit/chatbot/blob/master/Screenshot%202024-12-10%20at%205.18.08%20PM.png))
 
 <h1>proposeed solution:</h1>
 
